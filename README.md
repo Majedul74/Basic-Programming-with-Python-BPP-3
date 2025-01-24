@@ -103,3 +103,6 @@ This project is open-source and available for anyone to use and modify.
 ## Acknowledgments
 
 - Inspired by the need for effective student record management and performance analysis.
+- 
+Majedul Islam
+
